@@ -20,8 +20,7 @@ If you cross moving obstacle (light blue slab) : 10 points
 If you move in opp.direction of end : for coming back in :
         
                                      :1.dark blue slab: -8 points
-
-	    					         :2.light blue slab : -13 points
+                                     :2.light blue slab : -13 points
 
 
 (i.e lose points for crossing the previous obstacle and -3 points for coming back)
@@ -35,6 +34,6 @@ The timer will continue with previous value for each player
 If any of the players touches an obstacle the player dies and the next player plays.
 Only if both players finish the level without dying the level increases (the speed of moving obstacles increases) else they will relay the same level.
 
-Game continues until the player wishes to clode the window
+Game continues until the player wishes to close the window
 
 
