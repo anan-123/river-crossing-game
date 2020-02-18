@@ -8,7 +8,7 @@ one player plays at a time.
 
 both players are a cat.
 
-the control keys are up,down,left,right in keyboard.
+the control keys are up,down,left,right in keyboard for both the players.
 
 scoring mechanism:
 
