@@ -1,5 +1,5 @@
 # RIVER CROSSING GAME
-
+# To run the game : python mygame.py
 Welcome to the game! 
 
 The game has two players.Each one has to move from start to end.
